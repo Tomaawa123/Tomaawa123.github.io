@@ -22,13 +22,13 @@ editable .editable {
     border: 1px solid black;
     word-wrap: break-word;
 }
-.page nav {
+.page-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     border: 1px
 }
-.page content {
+.page-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
