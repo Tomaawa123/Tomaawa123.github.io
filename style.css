@@ -12,24 +12,16 @@
     background-position-x: 75px;
 }
 
-h1 {
-    font-size: 100px
-}
-
 editable .editable {
     width: 300px;
     min-height: 20px;
     border: 1px solid black;
     word-wrap: break-word;
 }
-.page-nav {
+
+body {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    border: 1px
-}
-.page-content {
-    display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
     border: 1px
