@@ -4,12 +4,8 @@
  * @author Toma awa
 */
 
-@import url(https://github.com/Tomaawa123/style.css/blob/main/style.css);
+
 :root {
-    background-image: url("https://www.cronicadigital.cl/imagenes/noticias/2014/11/patito.jpg");
-    background-size: 1163px;
-    background-position-y: -60px;
-    background-position-x: 75px;
 }
 
 editable .editable {
